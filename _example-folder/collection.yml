@@ -1,8 +1,0 @@
-collections:
-  example-folder:
-    output: true
-    order:
-      - example-subfolder/.keep
-      - example-subfolder/Example Titledsfdasfdsa.md
-      - example-subfolder/subfolder-page.md
-      - folder-page.md
