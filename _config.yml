@@ -46,3 +46,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1nr8dxdykp4vq.amplifyapp.com
 prod: https://master.d1nr8dxdykp4vq.amplifyapp.com
+resource_room:
