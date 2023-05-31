@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1nr8dxdykp4vq.amplifyapp.com
 prod: https://master.d1nr8dxdykp4vq.amplifyapp.com
-resources_name: qwerty
+resources_name: null
