@@ -2,5 +2,6 @@ collections:
   fdsgfdsgfdsg:
     output: true
     order:
+      - Fgdsgfdsgfdsgds/Example Title.md
       - Fgdsgfdsgfdsgds/.keep
       - Example Title.md
