@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://www.isomer.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -52,3 +52,9 @@ plugins:
 staging: https://staging.d1nr8dxdykp4vq.amplifyapp.com
 prod: https://master.d1nr8dxdykp4vq.amplifyapp.com
 resources_name: adsf
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
