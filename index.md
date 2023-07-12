@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Title
-description: An Isomer site of the Singapore Governmentjknjknjk
+description: An Isomer site of the Singapore Governmentjknjknjkfdsafdsfsaf
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
