@@ -1,5 +1,0 @@
-collections:
-  af:
-    output: true
-    order:
-      - Example Title.md
