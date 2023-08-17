@@ -1,5 +1,0 @@
-collections:
-  rename:
-    output: true
-    order:
-      - Example Title@@@!!@#$$$.md
