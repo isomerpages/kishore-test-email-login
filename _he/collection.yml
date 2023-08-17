@@ -1,4 +1,5 @@
 collections:
   he:
     output: true
-    order: []
+    order:
+      - example-page.md
