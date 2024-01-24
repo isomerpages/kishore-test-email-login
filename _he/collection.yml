@@ -1,0 +1,6 @@
+collections:
+  he:
+    output: true
+    order:
+      - moving.md
+      - example-page.md
