@@ -2,6 +2,6 @@
 title: Example Titlefdsafdasf
 permalink: /permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-new edit
+<p>new edit</p>
